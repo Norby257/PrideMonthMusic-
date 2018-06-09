@@ -12,7 +12,14 @@ What better way to celebrate Pride month with playlists curated from LGBTQ artis
 All you need is a browser such as chrome.
 
 # Technologies used 
+* JQuery
 * Spotify API 
+* Youtube Api 
+
+
+# Future developments 
+
+Building this in React js 
 
 
 
